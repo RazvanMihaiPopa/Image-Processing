@@ -1,1 +1,1 @@
-#Image Processing PPM File
+# Image Processing PPM File
